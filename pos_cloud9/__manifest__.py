@@ -27,5 +27,9 @@
             'pos_cloud9/static/src/xml/**/*',
         ],
     },
+    'images':[
+        'static/description/icon.png',
+        'static/description/thubmnail.png'
+    ],
     'license': 'LGPL-3',
 }
